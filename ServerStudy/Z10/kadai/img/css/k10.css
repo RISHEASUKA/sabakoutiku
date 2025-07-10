@@ -1,0 +1,11 @@
+body{
+    background-color: darkkhaki;
+    background-image: url(back.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+
+
+a:link{text-decoration:none ;color: coral;}
+a:visited{text-decoration: none;color: blue;}
+a:focus{text-decoration: none;color: blueviolet;}
+a:hover{text-decoration: none;color: cyan;}
